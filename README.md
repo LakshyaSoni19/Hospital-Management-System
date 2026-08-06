@@ -160,10 +160,10 @@ Add screenshots of:
 
 ## 👨‍💻 Developer
 
-**Vaidik Agnihotri**
+**Lakshya Soni**
 
-* GitHub: https://github.com/VaidikAgnihotri45
-* LinkedIn: https://www.linkedin.com/in/vaidik-agnihotri
+* GitHub: https://github.com/LakshyaSoni19
+* LinkedIn: https://www.linkedin.com/in/lakshya-soni-b283a2280/
 
 ---
 
